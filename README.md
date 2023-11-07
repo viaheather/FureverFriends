@@ -1,7 +1,9 @@
 # FureverFriends Pet Adoption Network
+
 Where passionate people meet their pets.
 
 ## Who we are
+
 We wanted to create a space that focuses on the pets and not the business of pets. With our soon to come wishlist feature, we are hoping to connect pets to people and vice versa. We are also excited to create a community of pet lovers that will support one another in caring for these wonderful creatures.
 
 ## How to use our site
@@ -18,9 +20,10 @@ using express-sessions and authentication helped us to secure the users profile,
 
 ## Deployed App
 
-[FureverFriends](https://pure-scrubland-49342-080c7f0b82aa.herokuapp.com/)
+[FureverFriends](https://fureverfriends-hn-c5b749b518a4.herokuapp.com/)
 
 ## Screenshots
+
 Homepage:
 ![Homepage](./public/images/homepage.jpg)
 
@@ -29,4 +32,4 @@ Profile:
 
 ## Source Code
 
-No source code was provided. The group collaborated nicely, and evenly split up the work while supporting each other through the debugging process. Some code snippets from the UofO coding bootcamp activities were adopted to fit this project. 
+No source code was provided. The group collaborated nicely, and evenly split up the work while supporting each other through the debugging process. Some code snippets from the UofO coding bootcamp activities were adopted to fit this project.
